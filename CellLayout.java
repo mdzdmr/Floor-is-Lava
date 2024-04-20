@@ -12,7 +12,6 @@ import java.awt.LayoutManager;
  * container's components in a hexagonal grid. The container is divided into
  * equal-sized hexagons, and one component is placed in each hexagon.
  *
- * @author keang
  *
  */
 public class CellLayout implements LayoutManager, java.io.Serializable {
